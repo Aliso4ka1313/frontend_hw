@@ -1,2 +1,2 @@
-# frontend_hw
-Repository for homework
+# Frontend
+Homework for HTML Module 1 - 2
